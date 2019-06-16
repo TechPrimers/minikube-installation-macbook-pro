@@ -1,5 +1,6 @@
 # Installing minikube in Macbook Pro 2018
 Following are the sequence of steps involved in installing `minikube` in a macbook pro 2018 edition
+
 I use `brew` a lot. Hence I have used `brew` whereever I can.
 
 ## Install Docker for Mac
